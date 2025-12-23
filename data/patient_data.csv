@@ -1,0 +1,11 @@
+PatientID,Age,Gender,Ethnicity,IncomeLevel,EmploymentStatus,MedicalHistory,Outcome
+001,45,Male,Caucasian,High,Full-time,Diabetes,Moderate
+002,30,Female,Hispanic,Low,Unemployed,Healthy,High
+003,37,Male,African American,Middle,Part-time,Hypertension,Low
+004,50,Female,Asian,High,Self-employed,Obesity,Moderate
+005,29,Male,Caucasian,Middle,Full-time,Healthy,High
+006,42,Female,Hispanic,Low,Part-time,Asthma,Moderate
+007,55,Male,Asian,High,Full-time,Heart Disease,High
+008,33,Female,Caucasian,Middle,Part-time,Healthy,Low
+009,60,Male,Hispanic,Low,Unemployed,Diabetes,High
+010,40,Female,African American,Middle,Full-time,Hypertension,Moderate
